@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name        = 'jikan'
-  s.version     = '0.1.2'
-  s.date        = '2013-02-07'
+  s.version     = '0.1.3'
+  s.date        = '2014-03-14'
   s.summary     = "Time.now"
-  s.description = "A simple command line gem for getting the date and time."
+  s.description = "A simple command line gem for displaying the time and date."
   s.authors     = ["Brett Chalupa"]
   s.email       = 'brettchalupa@gmail.com'
   s.files       = ["lib/jikan.rb", "bin/jikan"]

@@ -1,4 +1,5 @@
-I cannot read `date` time.
+Jikan is a little command line tool that outputs the time and date in a readable
+way.
 
 Install Jikan.
 
@@ -15,6 +16,6 @@ jikan
 Know the time.
 
 ```
-The time is 6:14 PM
-The date is February 7, 2013
+The time is 06:14 PM
+The date is February 07, 2013
 ```
